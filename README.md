@@ -49,6 +49,8 @@ To solve this problem, this application provides a simple and efficient way to:
 ---
 
 # 📁 Project Structure
+
+```
 ExpenseTracker/
 │
 ├── src/
@@ -63,14 +65,18 @@ ExpenseTracker/
 │
 ├── images/
 │ ├── main.png
-│ ├── add.png
+│ ├── add_title.png
+│ ├── add_amt.png
+│ ├── add_category.png
 │ ├── view.png
 │ ├── total.png
 │ ├── category.png
 │ ├── monthly.png
-│ └── csv.png
+│ ├── report_csv.png
+│ └── monthly_csv.png
 │
 └── README.md
+```
 ---
 
 # ▶️ How to Run
@@ -111,21 +117,9 @@ data/expenses.txt
 
 # 📊 Sample Output
 1. Food | ₹200 | Food | 2026-03-29
-2. Travel | ₹150 | Travel | 2026-03-29
+2. Uber | ₹150 | Travel | 2026-03-29
 
 Total Expense: ₹350
-
-
----
-
-# 📸 Screenshots (Add These for Best Marks)
-
-👉 Add images in your repo:
-
-- GUI Interface  
-- Adding Expense  
-- Viewing Expenses  
-- CSV File Output  
 
 ---
 
